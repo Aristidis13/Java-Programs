@@ -1,5 +1,4 @@
-# Java-Programs
-Here there are 3 programs that are focusing in Java's Object Oriented abilities, exceptions and File handling.
+Here are 3 programs that are focusing in Java's Object Oriented abilities, exceptions and File handling.
 
 # Beginner's Object Oriented Mini Project 
 That was my first Object Oriented Analysis project. It contains basic methods and attributes that are shown in UML image.
